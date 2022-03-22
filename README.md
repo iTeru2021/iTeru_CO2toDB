@@ -1,0 +1,2 @@
+# iTeru_CO2toDB
+CO2センサーから連携された情報をdynamoDBへ格納するためのlambda
